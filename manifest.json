@@ -23,11 +23,11 @@
                 {
                     "extra": {
                         "releases": [
-                            "NA"
+                            "Stock 5.1.1"
                         ]
                     },
-                    "url": "NA",
-                    "version": "NA",
+                    "url": "https://romhut.com/versions/twrp_multirom_2-8-6-x_20150530-signed-zip/download",
+                    "version": "32",
                     "md5": "NA",
                     "type": "kernel",
                     "size": 18519397
